@@ -11,7 +11,7 @@ The **specimens-with-images.txt** contains the catalogNumber (unique to a specim
 
 ### Obtaining Images
 Using the **specimens-with-images.txt** file images can be obtained in one of two suggested ways. Remember to use high-resolution images and images maybe different resolutions.
-1. Use the bee-image-finder package (https://github.com/Big-Bee-Network/bee-image-finder)[https://github.com/Big-Bee-Network/bee-image-finder]. To do so, use the catalogNumbers listed in the **specimens-with-images.txt** file. This script will download every high resolution image of the specimen (as identified by the catalogNumber) and place it in a separate folder.
+1. Use the bee-image-finder package [https://github.com/Big-Bee-Network/bee-image-finder](https://github.com/Big-Bee-Network/bee-image-finder). To do so, use the catalogNumbers listed in the **specimens-with-images.txt** file. This script will download every high resolution image of the specimen (as identified by the catalogNumber) and place it in a separate folder.
 2. Download images using the **image-file-links.txt** file. Use the **goodQualityAccessURI** column to download the image listed here. This will not retrieve all images for a given specimen, but will access all lateral and ventral head views.
 
 
