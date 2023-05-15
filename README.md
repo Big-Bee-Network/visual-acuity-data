@@ -6,6 +6,7 @@ The **specimens-with-images.txt** contains the catalogNumber (unique to a specim
 
 ## Darwin Core Archives
 The location of Darwin Core archives are:
+
 UCSB: https://serv.biokic.asu.edu/ecdysis/content/dwca/UCSB-IZC_DwC-A.zip
 
 MZC: http://digir.mcz.harvard.edu/ipt/rss.do
