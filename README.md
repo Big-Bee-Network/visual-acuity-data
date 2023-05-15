@@ -4,6 +4,12 @@ This archive contains tab delimited files. The **specimens-with-images.txt** is 
 
 The **specimens-with-images.txt** contains the catalogNumber (unique to a specimen), Family, scientificName (Genus, species) and sex for each bee specimen that has a high resolution image.
 
+## Darwin Core Archives
+The location of Darwin Core archives are:
+UCSB: https://serv.biokic.asu.edu/ecdysis/content/dwca/UCSB-IZC_DwC-A.zip
+
+MZC: http://digir.mcz.harvard.edu/ipt/rss.do
+
 ### Suggested Analysis Covariates:
 1. Sociality varies greatly in bees, but for preliminary analsyses we will divide sociality into **eusocial** and **not eusocial**. All specimens within the genera _Apis_, _Bombus_ can be considered **eusocial**. 
 2. Sex - vision varies greatly if the bee is a male or female. They may be searching at different times of the day (morning vs mid-day) or looking for different things (flowers vs female bees).
